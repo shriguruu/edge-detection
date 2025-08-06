@@ -31,7 +31,7 @@ To run this application on your local machine, follow these steps:
 1. **Clone the repository** (optional):
    ```bash
    git clone https://github.com/shriguruu/edge-detection.git
-   cd YOUR_REPO_NAME
+   cd edge-detection
    ```
 
 2. **Install the required libraries**:
